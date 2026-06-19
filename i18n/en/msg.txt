@@ -1,0 +1,5 @@
+Cancel: Cancel
+Conform: Confirm
+Discard: Discard
+Reset: Reset
+Submit: Submit

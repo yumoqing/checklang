@@ -1,0 +1,5 @@
+Cancel: キャンセル
+Conform: 確認
+Discard: 破棄
+Reset: リセット
+Submit: 送信
